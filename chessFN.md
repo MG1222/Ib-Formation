@@ -1,29 +1,29 @@
 Front 
 - responsive
 - hover
-- formuler design
+- formuler
 - error formuler email / mdp ( js )
 - redirection
 - mode sombre
 - popup
 - searchBar en temp real
--video
+- video
 - change lang.
-- screenshoot
+- screenshoot, ajouter des coulours etc 
 
 Back 
-- stock des partie d'user deja connecter 
-- stock les information de formuler si correct 
-- error si meme email existe
+- Gestion User (login, sign up etc ..)
+- Gestion de 
+- error si meme email existe ou mdp pas correct 
 - mode sombre
 - change lang.
 - screenshot
--crud
--mvc
+- crud
+- mvc
 - capture de pion 
-- movment de pion
+- mouvment de pion
 - pouvoir play que si c'est notre tur 
--sql 
+   
 
 
 
